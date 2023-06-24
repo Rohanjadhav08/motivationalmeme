@@ -8,8 +8,8 @@
      
 }
 #img{
-    width: 50%;
-    margin-left: 25%;
+    width: 100%;
+    border: 5px solid white;
 }
 html{
     background-color: black;
